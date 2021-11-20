@@ -1,11 +1,6 @@
 # Default values for helm-guestbook.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
-imageCredentials:
-  dockeryuuvisorg:
-    registry: docker.test
-    username: test
-    password: dummy
 
 replicaCount: 1
 
