@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 imageCredentials:
   dockeryuuvisorg:
-    registry: docker.yuuvis.org
+    registry: docker.test
     username: test
     password: dummy
 
