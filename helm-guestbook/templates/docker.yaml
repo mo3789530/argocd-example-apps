@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Secret
 metadata:
-  name: gcp-secrets-manager-example2
+  name: gcp-secrets-manager-example
 type: Opaque
 data:
   test-secret-gcp2: aaaaaaaavvvv
