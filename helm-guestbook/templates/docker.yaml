@@ -4,4 +4,4 @@ metadata:
   name: gcp-secrets-manager-example2
 type: Opaque
 data:
-  test-secret-gcp2: aaaaaaaa
+  test-secret-gcp2: aaaaaaaavvvv
